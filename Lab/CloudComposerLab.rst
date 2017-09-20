@@ -152,7 +152,7 @@ That basically says, assign medical provider #1 to Child #1.
 
 .. image:: Images/54.png
 
-My transaction says let member #1 have a read only copy of Child #2’s health record. This would be extremely useful when every year millions of kids get physicals in order to play a sport. Imagine having your medical provider authorize your child’s health record to approve them playing a sport. I know my parents would've enjoyed not dealing with both, the High School and the Medical Provider, to just play a sport. Also, because it is read only, the member wouldn't be able to change any information. 
+My transaction says let member #1 have a read only copy of Child #2’s health record. This would be extremely useful when every year millions of kids get physicals in order to play a sport. Imagine having the guardian authorize their child’s health record to approve them playing a sport. I know my parents would've enjoyed not dealing with both, the High School and the Medical Provider, to just play a sport. Also, because it is read only, the member wouldn't be able to change any information. 
 
 10. You can view this transaction by **clicking on childform** on the left and then **Show All** on your child. Notice that member #1 is now in the child’s description
 
